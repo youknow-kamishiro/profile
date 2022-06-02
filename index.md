@@ -21,6 +21,7 @@ Twitter [@beffell](https://twitter.com/beffell)
 - 社内案件管理システムの開発
 - 介護事業企業のホームページのフルリニューアル
 - 音楽文化団体のホームページのフルリニューアル
+- WixとNoteで運用されていた都市再生推進法人のホームページのWordPress移行
 - [初音ミク「Redial」Music Video](https://www.youtube.com/watch?v=243vPl8HdVk)などで利用されたMaya用プラグイン・ツール開発（60種以上）
 - iOSゲームアプリ[「kyudo」](https://apps.apple.com/jp/app/kyudo/id592682062)の開発
 
