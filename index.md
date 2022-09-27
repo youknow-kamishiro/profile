@@ -86,10 +86,9 @@ Twitter [@beffell](https://twitter.com/beffell)
 ## OS
 - Windows
 - macOS
+- Linux（Red Hat系）
 - iOS
 - Android
-- Red Hat Enterprise Linux
-- CentOS
 
 
 ## アプリケーション・IDE
