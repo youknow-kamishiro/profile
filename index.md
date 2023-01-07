@@ -42,13 +42,14 @@ Twitter [@beffell](https://twitter.com/beffell)
 ## フレームワーク・ライブラリ
 ### バックエンド
 - Laravel
-- WordPress
+- WordPress（テーマ・プラグイン開発）
 - Express（Node.js）
 - ASP.NET
 - Google Apps Script
 
 ### フロントエンド
 - jQuery
+- Bootstrap
 - Vue
 - Nuxt
 - Svelte
@@ -57,6 +58,7 @@ Twitter [@beffell](https://twitter.com/beffell)
 - PixiJS
 - Leaflet
 - Electron
+- Puppeteer
 
 
 ## API
@@ -65,6 +67,7 @@ Twitter [@beffell](https://twitter.com/beffell)
 - SendGrid API
 - LINE Messaging API
 - Twitter API
+- J-STAGE WebAPI
 
 
 ## 決済システム
@@ -78,7 +81,7 @@ Twitter [@beffell](https://twitter.com/beffell)
 - Apache
 - NGINX
 - Internet Information Services
-- MySQL
+- MySQL（MariaDB）
 - PostgreSQL
 - SQL Server
 
