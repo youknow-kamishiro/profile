@@ -67,7 +67,6 @@ Twitter [@beffell](https://twitter.com/beffell)
 - Google Drive API
 - SendGrid API
 - LINE Messaging API
-- Twitter API
 - J-STAGE WebAPI
 
 
