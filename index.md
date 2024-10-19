@@ -99,7 +99,7 @@ X（旧Twitter） [@beffell](https://x.com/beffell)
 - Imperva WAF
 - SiteLock
 - GRED Web改ざんチェック Cloud
-- ESET Server Security for Linux
+- ESET Server Security
 - Red Hat Insights
 - 第三者によるWebアプリケーション診断やペネトレーションテストの実施及びその後の修正対応
 
