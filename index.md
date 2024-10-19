@@ -105,6 +105,7 @@ X（旧Twitter） [@beffell](https://x.com/beffell)
 - Windows
 - macOS
 - Linux（Red Hat系）
+- VMware vSphere(ESXi)
 - iOS
 - Android
 
