@@ -111,6 +111,8 @@ X（旧Twitter） [@beffell](https://x.com/beffell)
 - VMware vSphere（ESXi）
 - iOS
 - Android
+- Raspberry Pi OS
+- STM32
 
 
 ## アプリケーション・IDE
