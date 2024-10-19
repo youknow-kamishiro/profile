@@ -96,9 +96,11 @@ X（旧Twitter） [@beffell](https://x.com/beffell)
 ## WAF・セキュリティ
 - SiteGuard
 - 攻撃遮断くん
+- Imperva WAF
 - SiteLock
 - ESET Server Security for Linux
 - Red Hat Insights
+- 第三者によるWebアプリケーション診断やペネトレーションテストの実施及びその後の修正対応
 
 
 ## OS
