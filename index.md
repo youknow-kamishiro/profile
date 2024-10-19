@@ -104,7 +104,7 @@ X（旧Twitter） [@beffell](https://x.com/beffell)
 - 第三者によるWebアプリケーション診断やペネトレーションテストの実施及びその後の修正対応
 
 
-## OS
+## OS・プラットフォーム
 - Windows
 - macOS
 - Linux（Red Hat系）
