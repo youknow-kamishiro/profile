@@ -88,7 +88,8 @@ X（旧Twitter） [@beffell](https://x.com/beffell)
 - Apache
 - NGINX
 - Internet Information Services
-- MySQL（MariaDB）
+- MySQL
+- MariaDB
 - PostgreSQL
 - SQL Server
 
